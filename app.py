@@ -1,7 +1,5 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
 from PIL import Image
-
 
 logo = Image.open("assets/logo.png")
 st.set_page_config(page_title="Kim Marcial Vallesteros", page_icon=logo, layout="wide")
