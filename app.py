@@ -52,7 +52,7 @@ profile_pic = Image.open("assets/profile_pic2.png")
 about_pic = Image.open("assets/about_pic.png")
 
 buttons = {
-    "Resume": "https://tinyurl.com/42y62hx8",               ### To be updated
+    "Resume": "http://tinyurl.com/3hz4pfym",               ### To be updated whenever I have a new version
     "LinkedIn": "https://www.linkedin.com/in/kimmarcialvallesteros/",
     "GitHub": "https://github.com/Kimchi21",
     "Gmail": "mailto:kimmarcialv@gmail.com"
@@ -135,6 +135,7 @@ with st.container():
 
 st.write("##")
 
+
 # ---- ABOUT ME ----
 with st.container():
     st.write("---")
@@ -153,7 +154,7 @@ with st.container():
             st.markdown(
                 f"<div style='display: flex; justify-content: center;'>"
                 "<div style='text-align: center; border: 1px solid #ccc; padding: 20px; border-radius: 20px; width: 225px; margin: 10px;'>"
-                f"<img src='https://raw.githubusercontent.com/Kimchi21/streamlit-portfolio/main/assets/experience.png' alt='exp' style='width: 50px; height: 50px;'>"
+                f"<img src='https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/experience.png' alt='exp' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Experience</strong></p>"
                 "<p style='margin: 3px 0;'>1+ years</p>"
@@ -167,7 +168,7 @@ with st.container():
             st.markdown(
                 f"<div style='display: flex; justify-content: center;'>"
                 "<div style='text-align: center; border: 1px solid #ccc; padding: 20px; border-radius: 20px; width: 225px; margin: 10px;'>"
-                f"<img src='https://raw.githubusercontent.com/Kimchi21/streamlit-portfolio/main/assets/education.png' alt='edu' style='width: 50px; height: 50px;'>"
+                f"<img src='https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/education.png' alt='edu' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Education</strong></p>"
                 "<p style='margin: 3px 0;'>Bachelors Degree</p>"
@@ -210,6 +211,7 @@ with st.container():
                 f'<style>.specific-image-class {{height: 550px !important;}}</style>',
                 unsafe_allow_html=True
             )
+
 
 # ---- Skills Summary ----
 with st.container():
@@ -337,6 +339,7 @@ with st.container():
             "</div>",
             unsafe_allow_html=True
         )
+
 
 # ---- PROJECTS ----
 repo = {
@@ -715,6 +718,7 @@ with st.container():
             """,
             unsafe_allow_html=True
         )
+
 
 # ---- CONTACT ----
 with st.container():
