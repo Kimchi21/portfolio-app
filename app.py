@@ -781,3 +781,16 @@ with st.container():
     </div>
     """
     st.markdown(contact_form, unsafe_allow_html=True)
+
+st.write("##")
+st.write("##")
+st.write("##")
+st.markdown(
+    "<div>"
+    "<div style='display: flex; flex-direction: column; align-items: center;'>"
+    "<img src='https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/logo.png' alt='Phone' style='width: 50px; height: 50px;'>"
+    "<p style='margin: 5px 0;'>© 2024 Kim Marcial A. Vallesteros</p>"
+    "</div>"
+    "</div>",
+    unsafe_allow_html=True
+)
