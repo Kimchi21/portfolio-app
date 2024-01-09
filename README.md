@@ -1,6 +1,8 @@
 # Streamlit Portfolio App
 
-Credits to [Sven-Bo]([https://github.com/Sven-Bo](https://github.com/Sven-Bo/personal-website-streamlit)) for the initial template and [dataprofessor](https://github.com/dataprofessor/streamlit_navbar) for the navigation bar.
+Credits to:
+- [Sven-Bo](https://github.com/Sven-Bo/personal-website-streamlit) for the initial template and contact form.
+- [dataprofessor](https://github.com/dataprofessor/streamlit_navbar) for the navigation bar.
 
 List of Attributions:
 
@@ -25,6 +27,6 @@ List of Attributions:
 - [MySQL icon](https://devicon.dev/) by Konpa - DEVICON
 - [PostgreSQL icon](https://devicon.dev/) by Konpa - DEVICON
 - [Excel icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png) by wikipedia - wikipedia
-- [Power BI icon](https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png) by iconduck - Google
+- [Power BI icon](https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png) by iconduck - Google Images
 - [VSCode icon](https://devicon.dev/) by Konpa - DEVICON
 - [Git icon](https://devicon.dev/) by Konpa - DEVICON
