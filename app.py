@@ -52,7 +52,7 @@ profile_pic = Image.open("assets/profile_pic2.png")
 about_pic = Image.open("assets/about_pic.png")
 
 buttons = {
-    "Resume": "https://tinyurl.com/mwbh49y8",               ### To be updated whenever I have a new version
+    "Resume": "https://tinyurl.com/kim-marcial-vallesteros-resume",               ### To be updated whenever I have a new version
     "LinkedIn": "https://www.linkedin.com/in/kimmarcialvallesteros/",
     "GitHub": "https://github.com/Kimchi21",
     "Gmail": "mailto:kimmarcialv@gmail.com"
