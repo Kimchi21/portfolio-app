@@ -87,7 +87,7 @@ with st.container():
         st.markdown("<h4 style='text-align: center;'>Hello, I'm</h4>", unsafe_allow_html=True)
         st.markdown("<h1 style='text-align: center;'>Kim Marcial A. Vallesteros</h1>", unsafe_allow_html=True)
         st.markdown("<h4 style='text-align: center;'>Data Analyst</h4>", unsafe_allow_html=True)
-        st.markdown("<h5 style='text-align: center;'>&quot;Asking the right questions paves the way for discovery. And asking the wrong ones? Well, it still leads to discovery, albeit on a different path.&quot;</h5>", unsafe_allow_html=True)
+        st.markdown("<h5 style='text-align: center;'>&quot;If the culture we have does not make people feel good about themselves, you have to be strong enough to say, <strong> If the culture doesn’t work, don’t buy it. Create your own.</strong>&quot - <em>Tuesdays with Morrie</em></h5>", unsafe_allow_html=True)
         st.markdown(
             f"""
             <style>
@@ -157,7 +157,7 @@ with st.container():
                 f"<img src='https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/experience.png' alt='exp' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Experience</strong></p>"
-                "<p style='margin: 3px 0;'>1+ years</p>"
+                "<p style='margin: 3px 0;'>2+ years</p>"
                 "<p style='margin: 3px 0;'>Data Analytics</p>"
                 "</div>"
                 "</div>",
@@ -171,7 +171,7 @@ with st.container():
                 f"<img src='https://raw.githubusercontent.com/Kimchi21/portfolio-app/main/assets/education.png' alt='edu' style='width: 50px; height: 50px;'>"
                 "<br>"
                 "<p style='margin: 3px 0;'><strong>Education</strong></p>"
-                "<p style='margin: 3px 0;'>Bachelors Degree</p>"
+                "<p style='margin: 3px 0;'>Bachelors Degree in</p>"
                 "<p style='margin: 3px 0;'>Computer Engineering</p>"
                 "</div>"
                 "</div>",
@@ -181,11 +181,15 @@ with st.container():
         st.write("##")
         st.write(
             """
-           Driven by a passion for computer and data-related fields, I possess a solid foundational knowledge base 
-           and a strong desire for performance and attention to detail. The technical tools I mainly use are Python, SQL, 
-           Microsoft Excel and Power BI, I specialize in data analysis, data visualization, and 
-           data manipulation, aiming to extract meaningful insights from data. I am dedicated to continuous learning 
-           and innovation. My passion for learning serves as the cornerstone of my journey in data analytics.
+           Driven by a passion for computer and data-related fields, I possess a solid foundation in data analysis
+           analysis, visualization, and manipulation, with a strong attention to detail and performance. My 
+           technical toolkit includes Python, SQL, Microsoft Excel, and Power BI, which I use to extract meaningful insights from data.
+
+
+           While I'm currently in the data analytics field, I am also expanding my skill set to transition into data 
+           engineering. My goal is to design and build robust data pipelines, optimize data systems, and ensure 
+           data integrity at scale. I am dedicated to continuous learning and innovation, with my passion for 
+           growth serving as the cornerstone of my journey from data analysis to data engineering.
             """
         )
 
