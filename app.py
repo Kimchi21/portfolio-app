@@ -299,7 +299,7 @@ with st.container():
             "<p style='margin: 10px 0;'>scikit-learn</p>"
             "<br>"
             f"<div style='display: flex; justify-content: center;'>"
-            f"<img src='https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg' alt='stats' style='width: 50px; height: 50px;'>"
+            f"<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg' alt='streamlit' style='width: 50px; height: 50px;'>"
             "</div>"             
             "<p style='margin: 10px 0;'>statsmodels</p>"
             "</div>",
