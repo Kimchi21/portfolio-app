@@ -299,9 +299,9 @@ with st.container():
             "<p style='margin: 10px 0;'>scikit-learn</p>"
             "<br>"
             f"<div style='display: flex; justify-content: center;'>"
-            f"<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg' alt='streamlit' style='width: 50px; height: 50px;'>"
+            f"<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg' alt='streamlit' style='width: 50px; height: 50px;'>"
             "</div>"             
-            "<p style='margin: 10px 0;'>statsmodels</p>"
+            "<p style='margin: 10px 0;'>Streamlit</p>"
             "</div>",
             unsafe_allow_html=True
         )
