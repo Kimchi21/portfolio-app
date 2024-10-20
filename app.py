@@ -178,7 +178,6 @@ with st.container():
                 unsafe_allow_html=True
             )
 
-        st.write("##")
         st.write(
             """
            Driven by a passion for computer and data-related fields, I possess a solid foundation in data analysis
@@ -192,6 +191,7 @@ with st.container():
            growth serving as the cornerstone of my journey from data analysis to data engineering.
             """
         )
+        st.write("##")
 
     with right_column:
         col1, col2, col3 = st.columns([1, 1.6, 1])
