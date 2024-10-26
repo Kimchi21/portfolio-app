@@ -178,6 +178,7 @@ with st.container():
                 unsafe_allow_html=True
             )
 
+        st.write("##")
         st.write(
             """
            Driven by a passion for computer and data-related fields, I possess a solid foundation in data analysis
