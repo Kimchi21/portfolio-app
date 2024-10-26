@@ -137,6 +137,7 @@ st.write("##")
 
 
 # ---- ABOUT ME ----
+st.write("##")
 with st.container():
     st.write("---")
     left_column, right_column = st.columns(2)
